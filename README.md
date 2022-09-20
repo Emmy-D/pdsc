@@ -1,3 +1,7 @@
+Note: This fork has been merged to the lroc branch in the original pdsc repository on Sept 19th
+
+
+
 PDSC: Planetary Data System Coincidences
 ========================================
 
